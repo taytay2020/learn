@@ -1,1 +1,10 @@
-
+body{
+    background-color: black;
+    background-image: url(./pexels-photo-3531867.jpeg);
+    color: goldenrod;
+    font-size: medium;
+    background-size: cover;
+}
+li{
+    color: goldenrod;
+}
